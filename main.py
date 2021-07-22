@@ -4,7 +4,7 @@ import telepot
 import requests
 import os
 
-TOKEN='264775797:AAGFhQemU7tO6HlAPoD1mfYBdmo40IkBZts'
+TOKEN='1933594464:AAEbnrMyNUMuvfhGui3A9LlxLqn8dADcA2I'
 
 def handle(msg):
     content_type, chat_type, chat_id = telepot.glance(msg)
